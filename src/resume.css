@@ -1,0 +1,50 @@
+*{
+  width: 100%;
+  /* background-color: #ECF2FF; */
+}
+#heading{
+  color: brown;
+  font-size: 35px;
+  
+}
+.info{
+  margin: 5px 15px;  
+}
+
+.info1{
+  color: navy;
+  margin: 5px 15px;  
+}
+
+div{
+  margin-top: 35px;
+}
+hr{
+  height:2px;
+  width: 98%;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+  margin-top: 20px;
+}
+
+.obj{
+  margin: 30px 0px 0px 15px;
+  color: navy;
+  /* background-color: rgb(202, 200, 200); */
+  padding: 5px 10px;
+}
+.detail a{
+  /* text-decoration: none; */
+  color: black;
+}
+
+.detail{
+  margin:15px 0px 0px 50px;
+}
+
+.pree{
+  margin: 0px 0px 0px 60px;
+  color: rgb(90, 88, 88);
+  font-size: smaller;
+}
